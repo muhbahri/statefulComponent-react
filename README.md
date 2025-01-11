@@ -1,4 +1,4 @@
-# Stateful Component
+# Stateful Component React
 
 ## Tentang Proyek
 
